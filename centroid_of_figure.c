@@ -1,3 +1,4 @@
+//https://media.discordapp.net/attachments/847004354467987456/1068574736667377886/bdc31141-dfb0-45a3-a2c0-5451f1373676.png?width=327&height=581
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
